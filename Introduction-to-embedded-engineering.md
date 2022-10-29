@@ -52,7 +52,7 @@
 - [ ] Types of pointers (Generic, Ageneric).
 - [ ] Pointer of Pointers.
 
-> Assigned to [Pavl]
+> Assigned to [Ahmed] and [Pavl]
 -----------------------------------------------------------------
 ### Lecture 7: User-defined datatypes in C:
 
@@ -71,7 +71,15 @@
 
 > Assigned to [Youssef] and [Pavl]
 -----------------------------------------------------------------
-### Lecture 9: Native program building process: 
+### Lecture 9: Scopes in C:
+
+- [ ] Global Scope.
+- [ ] Local Scope (block, function, struct, union).
+- [ ] Namespaces (uses, scoping, examples).
+
+> Unassigned yet !
+-----------------------------------------------------------------
+### Lecture 10: Native program building process: 
 
 - [ ] Pre-processing.
 - [ ] Compilation (and static linking).
@@ -79,4 +87,4 @@
 - [ ] Linker (dynamic).
 - [ ] Runtime.
 
-> Un-assigned yet !
+> Assigned to [Mina] and [Pavl]
