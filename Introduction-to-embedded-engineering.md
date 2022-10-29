@@ -74,7 +74,7 @@
 ### Lecture 9: Scopes in C:
 
 - [ ] Global Scope.
-- [ ] Local Scope (block, function, struct, union).
+- [ ] Local Scope (curly brackets components, blocks, functions, loops, structs, unions).
 - [ ] Namespaces (uses, scoping, examples).
 
 > Assigned to [Taher]
