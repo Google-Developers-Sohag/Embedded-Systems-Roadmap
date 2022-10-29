@@ -50,6 +50,7 @@
 - [ ] Operations on pointers.
 - [ ] Operations on pointers V.S. Accessing Arrays members.
 - [ ] Types of pointers (Generic, Ageneric).
+- [ ] Pointer of a function.
 - [ ] Pointer of Pointers.
 
 > Assigned to [Ahmed] and [Pavl]
