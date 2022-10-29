@@ -77,7 +77,7 @@
 - [ ] Local Scope (block, function, struct, union).
 - [ ] Namespaces (uses, scoping, examples).
 
-> Unassigned yet !
+> Assigned to [Taher]
 -----------------------------------------------------------------
 ### Lecture 10: Native program building process: 
 
