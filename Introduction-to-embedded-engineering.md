@@ -7,12 +7,12 @@
 - [ ] Basic C program structure.
 - [ ] Hello world in C.
 - [ ] Variables in C.
-- [ ] Arithmetic operations in C.
 
 > Assigned to [Youssef]
 -----------------------------------------------------------------
 ### Lecture 2: Basic Operations and conditional statements in C:
 
+- [ ] Arithmetic operations in C.
 - [ ] Logical, Operand, Bitwise and Assignment operations.
 - [ ] If condtions, nested if...else and switch...case.
 
