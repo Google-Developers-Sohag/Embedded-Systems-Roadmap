@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+title: Embedded Systems Tutorial by GDSC-Sohag
+description: A concise introduction to embedded engineering and C programming langauge
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-slate
