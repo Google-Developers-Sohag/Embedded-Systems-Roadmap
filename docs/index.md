@@ -1,5 +1,5 @@
 ## Table of content:
-- <img src="https://user-images.githubusercontent.com/60224159/206582606-92802e3f-f322-4be9-a343-25c76a7797f1.svg" height=25 width=25/> [Study](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/study.md)
-- <img src="https://user-images.githubusercontent.com/60224159/206582613-3dd8c0e9-a71b-4cbb-ad8c-945a64ff62f9.svg" height=25 width=25/> [Code Now](https://www.programiz.com/c-programming/online-compiler/)
-- [Solve Now]()
-- [Study Resources]()
+- <img src="https://user-images.githubusercontent.com/60224159/206584448-38c447fd-19d0-4a84-976c-3b04dab37a68.svg" height=25 width=25/> [Study](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/study.html)
+- <img src="https://user-images.githubusercontent.com/60224159/206584450-1c8160f6-152a-47c9-a98c-520a95493991.svg" height=25 width=25/> [Code Now](https://www.programiz.com/c-programming/online-compiler/)
+- <img src="https://user-images.githubusercontent.com/60224159/206584451-ed1e5018-5ccf-4f17-8df5-6783e9ec8a8e.svg" height=25 width=25/> [Solve Now]()
+- <img src="https://user-images.githubusercontent.com/60224159/206584447-d9d66c6c-fe69-439b-ae2b-39004faec8b3.svg" height=25 width=25/> [Study Resources]()
