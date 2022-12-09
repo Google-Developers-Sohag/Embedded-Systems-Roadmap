@@ -5,10 +5,6 @@
 
 1) Write a program that adds some input numbers and terminates when the user enters zero and prints the sum of all the user inputs.
 
-<details>
-<summary>Answer</summary>
-<br>
-
 ```bash
 
 # to create a build directory
@@ -20,8 +16,6 @@ gcc ./calculator.c -o ./build/calculator.exe
 # run the executable on your machine
 ./calculator.exe
 ```
-
-<br>
 
 ```c
 
@@ -58,13 +52,7 @@ int main() {
 }
 ```
 
-</details>
-
 2) Write a C program to count number of digits in an Integer, for example '100' will produce an output of 3 digits. 
-
-<details>
-<summary>Answer</summary>
-<br>
 
 ```bash
 # to create a build directory
@@ -76,8 +64,6 @@ gcc ./digits_counter.c -o ./build/digits_counter.exe
 # run the executable on your machine
 ./digits_counter.exe
 ```
-
-<br>
 
 ```c
 	
@@ -128,13 +114,7 @@ int main() {
 }
 ```
 
-</details>
-
 3) Write a C program to evaluate the summation equation (result = (1 / i) + (1 / i + 1) + (1 / i + 2) + ...; where i = [1, n] and n is the limit number for the summation).
-
-<details>
-<summary>Answer</summary>
-<br>
 
 ```bash
 # to create a build directory
@@ -196,5 +176,3 @@ int main() {
    return 0;
 }
 ```
-</details>
-
