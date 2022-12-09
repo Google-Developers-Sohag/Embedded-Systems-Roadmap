@@ -2,3 +2,4 @@
 - `Lecture-two`: [Basic Operations and conditional statements in C](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-two/raw-docs/lecture-two.html)
 - `Lecture-three`: [Loops in C](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-three/raw-docs/lecture-three.html)
 - `Lecture-four`: [Functions in C](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-four/raw-docs/lecture-four.html)
+- `Lecture-five`: [Arrays in C and C-Strings](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-five/raw-docs/lecture-five.html)
