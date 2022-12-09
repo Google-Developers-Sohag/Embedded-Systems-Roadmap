@@ -20,12 +20,13 @@ gcc ./calculator.c -o ./build/calculator.exe
 ```c
 
 /**
-* @brief: A program that adds some numbers and terminates when the user inputs zero.
-* @author: mina_maher
-* @refactoring: pavl_g
-* @copyright: GDSC-Sohag
+* @brief A program that adds some numbers and terminates when the user inputs zero.
+* @author mina_maher
+* @refactoring pavl_g
+* @copyright GDSC-Sohag
 */
 
+#include<errno.h> /* for EOF (-1) End-Of-File errno */
 #include<stdio.h> /* for FILE* stdin, FILE* stdout, printf(...), scanf(...) and setbuf(...) */
 
 int main() {
@@ -39,6 +40,8 @@ int main() {
         reads_number = scanf("%lf", &number);
         /* sanity check the input */
         if (reads_number <= 0) {
+            number = EOF;
+            setbuf(stdin,NULL);
     	    printf("%s\n", "Please enter a valid number !");
     	    /* skip the rest and re-iterate back to the start */
             continue;
@@ -46,7 +49,7 @@ int main() {
         sum += number;
     } while (number != 0.0);
 
-    printf("Sum = %.2lf",sum);
+    printf("Sum = %.2lf", sum);
 
     return 0;
 }
@@ -68,10 +71,10 @@ gcc ./digits_counter.c -o ./build/digits_counter.exe
 ```c
 	
 /**
-* @brief: A program to count number of digits in an Integer, for example '100' will produce an output of 3 digits.
-* @author: mina_maher
-* @refactoring: pavl_g
-* @copyright: GDSC-Sohag
+* @brief A program to count number of digits in an Integer, for example '100' will produce an output of 3 digits.
+* @author mina_maher
+* @refactoring pavl_g
+* @copyright GDSC-Sohag
 */
 
 #define TRUE 1
@@ -129,10 +132,10 @@ gcc ./summation_generator.c -o ./build/summation_generator.exe
 
 ```c
 /**
-* @brief: A program to evaluate the summation equation  Σ (1 / i); where i = [1, n] and (n) is the limit.
-* @author: mina_maher
-* @refactoring: pavl_g
-* @copyright: GDSC-Sohag
+* @brief A program to evaluate the summation equation  Σ (1 / i); where i = [1, n] and (n) is the limit.
+* @author mina_maher
+* @refactoring pavl_g
+* @copyright GDSC-Sohag
 */
 
 #include<stdio.h> /* for FILE* stdin, FILE* stdout, printf(...), scanf(...) and setbuf(...) */
