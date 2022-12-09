@@ -10,6 +10,7 @@
 <br>
 
 ```bash
+
 # to create a build directory
 mkdir ./build 
 
@@ -23,6 +24,7 @@ gcc ./calculator.c -o ./build/calculator.exe
 <br>
 
 ```c
+
 /**
 * @brief: A program that adds some numbers and terminates when the user inputs zero.
 * @author: mina_maher
@@ -78,6 +80,7 @@ gcc ./digits_counter.c -o ./build/digits_counter.exe
 <br>
 
 ```c
+	
 /**
 * @brief: A program to count number of digits in an Integer, for example '100' will produce an output of 3 digits.
 * @author: mina_maher
