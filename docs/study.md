@@ -1,3 +1,4 @@
 - `Lecture-one`: [Introduction to embedded engineering and C programming language](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-one/raw-docs/lecture-one.html)
 - `Lecture-two`: [Basic Operations and conditional statements in C](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-two/raw-docs/lecture-two.html)
 - `Lecture-three`: [Loops in C](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-three/raw-docs/lecture-three.html)
+- `Lecture-four`: [Functions in C](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/lecture-four/raw-docs/lecture-four.html)
