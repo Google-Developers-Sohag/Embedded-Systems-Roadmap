@@ -127,8 +127,6 @@ gcc ./summation_generator.c -o ./build/summation_generator.exe
 ./summation_generator.exe
 ```
 
-<br>
-
 ```c
 /**
 * @brief: A program to evaluate the summation equation  Σ (1 / i); where i = [1, n] and (n) is the limit.
