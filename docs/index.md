@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/png" href="103846078.png">
 
-<img align="center" src="https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/Visual-Roadmap.png" />
+<p align="center"> <img align="center" src="https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/Visual-Roadmap.png" /> </p>
 
 ## Table of contents:
 - <img src="https://user-images.githubusercontent.com/60224159/206584448-38c447fd-19d0-4a84-976c-3b04dab37a68.svg" height=25 width=25/> [Study](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/study.html)
