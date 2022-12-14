@@ -10,4 +10,4 @@
 
 ## Advanced topics:
 - <img src="https://user-images.githubusercontent.com/60224159/178119492-91d3cc70-a88f-4b9a-94a0-ca7b68b1d861.png" height=25 width=35/> [The AVR-Sandbox Project](https://software-hardware-codesign.github.io/AVR-Sandbox/)
-- [LLVM Primer](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/wip-index.html)
+- <img src="https://user-images.githubusercontent.com/60224159/207659838-e1d6f22c-cef6-4224-a576-567bb9fbb286.png" height=25 width=25/> [LLVM Primer](https://google-developers-sohag.github.io//Embedded-Systems-Roadmap/wip-index.html)
