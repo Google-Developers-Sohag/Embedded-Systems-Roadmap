@@ -9,6 +9,7 @@
 6) Pushing bug fixes changes guide (branch naming, commits and PRs).
 7) Pushing new features guide (branch naming, commits and PRs).
 8) Updating your local repository with the remote repository.
+9) Creating issues at this repository.
 -----------------------------------
 
 ### 1) Prologue:
@@ -80,5 +81,82 @@ $ git add ./docs/[feature-a] && git commit -m "docs/feature-a: [details-in-brief
 ```
 5) Now, head to **your fork** and create a pull request with some good checkpointed details about your changes.
 
+> A PR's description should be in this form (A tasked PR).
+```
+Title: 
+Feature-added: little description
+
+Description: 
+## This PR adds/changes/modifies/deletes the following: 
+- [x] Foo-bar-A.
+- [ ] Foo-bar-B.
+## This PR targets this issue/feature-request: 
+- #1242.
+```
+
 -------------------
 
+### 6) Pushing bug fixes changes guide (branch naming, commits and PRs).
+
+1) Create a new branch out off the master branch describing the issue in brief.
+```bash
+$ cd ./Projects/Embedded-Systems-Roadmap && git checkout master -b "foobar-fix"
+```
+2) Do your fix changes.
+3) Now add, commit and push them.
+```bash
+$ git add ./[directory] && git commit -m "foobar: fixed issue-A" && git push origin foobar-fix
+```
+4) Now create a PR with this signature.
+```
+Title: 
+Fix: little description
+
+Fix-Description: 
+## This PR fixes the following: 
+- [x] Foo-bar-A.
+- [ ] Foo-bar-B.
+## This PR targets this bug: 
+- #1342.
+```
+-----------------
+### 7) Pushing new features guide (branch naming, commits and PRs): 
+
+1) Create a new branch out off the master branch describing the feature in brief.
+```bash
+$ cd ./Projects/Embedded-Systems-Roadmap && git checkout master -b "feature-a"
+```
+2) Do your fix changes.
+3) Now add, commit and push them.
+```bash
+$ git add ./[directory] && git commit -m "feature-a: added foobars" && git push origin feature-a
+```
+4) Now create a PR with this signature.
+```
+Title: 
+Feature-added: little description
+
+Description: 
+## This PR adds/changes/modifies/deletes the following: 
+- [x] Foo-bar-A.
+- [ ] Foo-bar-B.
+## This PR targets this issue/feature-request: 
+- #1242.
+```
+---------------
+### 8) Updating your local repository with the remote repository: 
+
+- Pull with the rebase flag will update your current master local branch with the remote one.
+```bash
+$ cd ./Projects/Embedded-Systems-Roadmap && git pull origin master --rebase
+```
+--------------
+### 9) Creating issues at this repository: 
+
+> [Issues](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/milestone/1) should be in this formula
+```
+ Issue-Title: brief description
+
+Description: 
+......
+```
