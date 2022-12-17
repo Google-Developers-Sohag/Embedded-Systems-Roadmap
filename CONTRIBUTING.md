@@ -32,7 +32,7 @@ of the linux virtualization processes as it's an automated process.
 | ![](https://user-images.githubusercontent.com/60224159/208230918-88ba1b46-da92-4ef0-ad1e-01d798d5372d.png) | 1) Head to the repository settings. <br/>2) Navigate to pages. <br> 3) Activate the `build and deployment from a branch` and select your deployment branch. <br> 4) Optionally restrict the build process to the `./docs` directory. |
 
 - Now you have a working automated deployment to your repo, in this case i am specifying the `./docs` folder as my deployment directory for the site, so docker won't include the rest of the branch in the building process, this saves much time in the deployment process.
-- Create a configuration yaml file in your deployment directory `./docs`, with these basic attributes: 
+- Create a configuration yaml file [_config.yml](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/docs/_config.yml) in your deployment directory `./docs`, with these basic attributes: 
 ```yml
 title: Embedded Systems Tutorial by GDSC-Sohag
 description: A concise introduction to embedded engineering and C programming langauge
