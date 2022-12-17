@@ -4,8 +4,8 @@
 1) Prologue.
 2) How Github-pages work.
 3) Editing/Adding new links.
-4) Generate HTML lectures from PDF/PPTX files (Using Libre-office).
-5) Integrate HTML websites into the generated github-page.
+4) Generating HTML lectures from PDF/PPTX files (Using Libre-office).
+5) Integrating HTML websites into the generated github-page.
 6) Pushing bug fixes changes guide (branch naming, commits and PRs).
 7) Pushing new features guide (branch naming, commits and PRs).
 8) Updating your local repository with the remote repository.
@@ -51,3 +51,14 @@ theme: jekyll-theme-slate
 - HTML files are included in the build directly.
 - The [index.md](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/docs/index.md) or `index.html` will be the default homepage for your deployed web-page.
 - You can write in both markdown or HTML and the github-pages action will deploy them to your github-page.
+
+-------------------
+
+### 4) Generating HTML lectures from PDF/PPTX files (Using Libre-office): 
+
+> NB: [Libreoffice](https://www.libreoffice.org/get-help/install-howto/windows/) is preferred.
+
+- Using your powerpoint renderer application: `Menu -> File -> Save-as -> Web-page/HTML -> Save as "index.html"` and select the save directory.
+- Test your `index.html` and apply your changes to the html code if feasible.
+
+-------------------
