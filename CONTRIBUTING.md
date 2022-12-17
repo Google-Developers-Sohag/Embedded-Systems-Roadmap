@@ -1,15 +1,15 @@
 # Contribution guidelines: 
 
 ## Table of contents:
-1) Prologue.
-2) How Github-pages work.
-3) Editing/Adding new links.
-4) Generating HTML lectures from PDF/PPTX files (Using Libre-office).
-5) Integrating HTML websites into the generated github-page.
-6) Pushing bug fixes changes guide (branch naming, commits and PRs).
-7) Pushing new features guide (branch naming, commits and PRs).
-8) Updating your local repository with the remote repository.
-9) Creating issues at this repository.
+1) [Prologue](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#1-prologue)
+2) [How Github-pages work](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#2-how-github-pages-work)
+3) [Editing/Adding new links](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#3-editingadding-new-links)
+4) [Generating HTML lectures from PDF/PPTX files (Using Libre-office)](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#4-generating-html-lectures-from-pdfpptx-files-using-libre-office)
+5) [Integrating HTML websites into the generated github-page](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#5-integrating-html-websites-into-the-generated-github-page)
+6) [Pushing bug fixes changes guide (branch naming, commits and PRs)](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#6-pushing-bug-fixes-changes-guide-branch-naming-commits-and-prs)
+7) [Pushing new features guide (branch naming, commits and PRs)](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#7-pushing-new-features-guide-branch-naming-commits-and-prs)
+8) [Updating your local repository with the remote repository](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#8-updating-your-local-repository-with-the-remote-repository)
+9) [Creating issues at this repository](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/CONTRIBUTING.md#9-creating-issues-at-this-repository)
 -----------------------------------
 
 ### 1) Prologue:
