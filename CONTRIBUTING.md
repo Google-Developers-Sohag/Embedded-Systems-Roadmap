@@ -14,7 +14,7 @@
 
 ### 1) Prologue:
 
-This roadmap is provided by gdsc-sohag under GPLv3 open-source license.
+This roadmap is provided by gdsc-sohag under [GPLv3 open-source license](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/LICENSE).
 
 **To contribute to this repository (edit/add new links, edit/add/generate new lectures on docs, edit/add custom websites) follow this guide.**
 
