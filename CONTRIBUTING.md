@@ -3,7 +3,7 @@
 ## Table of contents:
 1) Prologue.
 2) How Github-pages work.
-3) Edit/Add new links.
+3) Editing/Adding new links.
 4) Generate HTML lectures from PDF/PPTX files (Using Libre-office).
 5) Integrate HTML websites into the generated github-page.
 6) Pushing bug fixes changes guide (branch naming, commits and PRs).
@@ -43,3 +43,11 @@ theme: jekyll-theme-slate
 - For more (as customizing your site and setting up themes with jekyll), refer to the [Github-pages docs](https://docs.github.com/en/pages).
 
 -------------------
+
+### 3) Editing/Adding new links:
+
+- [Markdown](https://www.markdownguide.org/getting-started/) and [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) files inside `./docs` are added to the build and deploy actions performed by github-pages.
+- Markdown files are [rendered into HTML files](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/actions/runs/3719082740/jobs/6307710544) in this process with the theme specified previously in the `.scss` assets by the theming engine selected previously in your config yaml file.
+- HTML files are included in the build directly.
+- The [index.md](https://github.com/Google-Developers-Sohag/Embedded-Systems-Roadmap/blob/master/docs/index.md) or `index.html` will be the default homepage for your deployed web-page.
+- You can write in both markdown or HTML and the github-pages action will deploy them to your github-page.
