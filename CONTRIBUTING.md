@@ -62,3 +62,23 @@ theme: jekyll-theme-slate
 - Test your `index.html` and apply your changes to the html code if feasible.
 
 -------------------
+
+### 5) Integrating HTML websites into the generated github-page: 
+
+1) Fork and Clone your fork locally: 
+```bash
+$ cd ./Projects && git clone https://github.com/[your-username]/Embedded-Systems-Roadmap.git
+```
+2) Create a new feature branch: 
+```bash
+$ git checkout master -b feature-a
+```
+3) Add your generated html directory to the local repo `./docs` deployment folder.
+4) Add, commit and push the changes to the new featured branch.
+```bash
+$ git add ./docs/[feature-a] && git commit -m "docs/feature-a: [details-in-brief]" && git push origin feature-a
+```
+5) Now, head to **your fork** and create a pull request with some good checkpointed details about your changes.
+
+-------------------
+
