@@ -177,3 +177,15 @@ int main() {
    return 0;
 }
 ```
+4) DIY: The Factorial function: 
+
+In mathematics, the product of all values less than or equal to an integer number is called the "Factorial of an integer" and denoted by this equation: 
+***f(n) = n! = n x (n - 1) x (n - 2) x (n - 3) x ... x 1***
+
+The factorial function should operate on non-negative integer numbers only, no negatives and no fractional numbers, you should be able to handle this.
+
+**Objectives: **
+- Write a function that finds the factorial of a number and returns the resulted integer value.
+- Handle the user negative input, non-integer numbers and characters.
+- Test 20 and 200 and -200.
+
